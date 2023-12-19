@@ -74,3 +74,5 @@ ls --color=auto --all
 cd .
 touch background.jpg
 touch header.png
+touch foter.jpeg
+touch footer.jpeg
