@@ -34,3 +34,4 @@ cd ..
 ls --color=auto
 more package.jso
 more package.json
+clear
